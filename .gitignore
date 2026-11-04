@@ -1,0 +1,6 @@
+# Compiled binary
+/htmlmail2md
+
+# Go
+*.exe
+/bin/
